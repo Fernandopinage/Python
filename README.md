@@ -1,6 +1,6 @@
 # Python
 Exercico 01
-ex001   Criar uma messagem em python </br>
+<b>ex001</b>   Criar uma messagem em python </br>
 ex002   Faça um programa que leia nome de uma pessoa e mostre uma messagem de boas vindas</br>
 ex003   Crie um programa que leia 2 numeros e mostre a soma entre eles</br>
 ex004   Faça um programa que leia algo pela teclado e mostre na tela seu tipo primitivo e todos as informações possiveis sobre ela.</br>
