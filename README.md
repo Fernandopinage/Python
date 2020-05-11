@@ -27,14 +27,14 @@
  * O nome com todas as letras maiusculas e minusculas </br>
  * Quantas letras ao todo (sem contarar com os espaços)</br>
  * Quantas letras tem o primeiro nome</br>
- * Criar um array de lista com nome digitado</br>
+ * Criar um array de lista com nome digitado</br></br>
 <b><h4>ex007</h4></b> &nbsp;Faça um programa que leia um numero de 0 a 9999 e mostre na tela cada digito separados.</br>
 <b><h4>ex008</h4></b> &nbsp;Crei um programa que leia nome de uma cidade e diga se ela começa ou nao com o nome de "santo"</br>
 <b><h4>ex009</h4></b> &nbsp;Crie um programa que leia nome de uma pessoa e digar se ela tem "silva" no nome </br>
 <b><h4>ex010</h4></b> &nbsp;Faça um programa que leia uma frase pelo teclado e mostre:</br>
  * Quantas vezes aparece a letra "A"</br>
  * Em que posição ela aparece a primiera vez</br> 
- * Em que posição ela aparece pela ultima vez</br>
+ * Em que posição ela aparece pela ultima vez</br></br>
 <b><h4>ex011</h4></b> &nbsp;Faça um programa que leia o nome completo de uma pessoa mostrando em seguida o primeiro nome e ultimo nome separados<br>
 </br></br>
 <b><h1> Exercico 03</h1></b><br>
