@@ -1,3 +1,4 @@
+# Crie um program que efetue raiz quadrada
 from math import sqrt
 
 numero = float(input('digite um numero'))
