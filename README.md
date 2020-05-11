@@ -22,16 +22,16 @@
 <b><h4>ex003</h4></b>&nbsp;<h6>Faça um programa que leia o ângulo qualquer e mostre na tela o valor "seno","cosseno" é "tangente" desse ângul.</h6></br>
 <b><h4>ex004</h4></b>&nbsp;<h6>Faça um programa que sortear um dos quatros alunos para apagar o quadro.</h6></br>
 <b><h4>ex005</h4></b>&nbsp;<h6>Faça um programa que leia nome de 4 alunos e mostre a ordem soteadas</h6></br>
-<b><h4>ex006</h4></b>&nbsp;<h6>Cria um programa que leia o nome completo de uma pessoa e mostre</br>
-# * O nome com todas as letras maiusculas e minusculas </br>
-# * Quantas letras ao todo (sem contarar com os espaços)</br>
-# * Quantas letras tem o primeiro nome</h6></br>
-# * Criar um array de lista com nome digitado</h6></br>
+<b><h4>ex006</h4></b>&nbsp;<h6>Cria um programa que leia o nome completo de uma pessoa e mostre</h6></br>
+<h6># * O nome com todas as letras maiusculas e minusculas </h6></br>
+<h6># * Quantas letras ao todo (sem contarar com os espaços)</h6></br>
+<h6># * Quantas letras tem o primeiro nome</h6></br>
+<h6># * Criar um array de lista com nome digitado</h6></br>
 <b><h4>ex007</h4></b>&nbsp;<h6>Faça um programa que leia um numero de 0 a 9999 e mostre na tela cada digito separados.</h6></br>
 <b><h4>ex008</h4></b>&nbsp;<h6>Crei um programa que leia nome de uma cidade e diga se ela começa ou nao com o nome de "santo"</h6></br>
 <b><h4>ex009</h4></b>&nbsp;<h6>Crie um programa que leia nome de uma pessoa e digar se ela tem "silva" no nome </h6></br>
 <b><h4>ex010</h4></b>&nbsp;<h6>Faça um programa que leia uma frase pelo teclado e mostre:</h6></br>
-# * Quantas vezes aparece a letra "A"</br>
-# * Em que posição ela aparece a primiera vez</br> 
-# * Em que posição ela aparece pela ultima vez</h6></br>
+<h6># * Quantas vezes aparece a letra "A"</h6></br>
+<h6># * Em que posição ela aparece a primiera vez</h6></br> 
+<h6># * Em que posição ela aparece pela ultima vez</h6></br>
 <b><h4>ex011</h4></b>&nbsp;<h6>Faça um programa que leia o nome completo de uma pessoa mostrando em seguida o primeiro nome e ultimo nome separados</h6><br>
