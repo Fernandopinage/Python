@@ -46,3 +46,34 @@ Calcule o preço  da passagem, combrando R$0,50 por KM para cada viagem ate 200k
 <b><h4>ex005</h4></b> &nbsp;Crie um programa que verifica se o ano e bissexto</br>
 <b><h4>ex006</h4></b> &nbsp;Faça um programa que leia três numeros mostre qual e o maior e qual e o menor.</br>
 <b><h4>ex007</h4></b> &nbsp;Faça um programa que leia um salario de um funcionario e calcule o valor de seu aumento. Para o salario superiores à 1.250, calcule o aumento de 10% para inferiores ou iguais o aumento e de 15%</br>
+</br></br>
+<b><h1> Exercico 02</h1></b><br>
+<b><h4>ex001</h4></b> &nbsp;Escreva um programa para aprovar um emprestimo bancario a compra de uma casa. Pergunte o valor da casa, o salario do comprador e em quantos anos ele vai pagar. A prestação mensal, nao pode exceder 30% do salario ou entao o emprestimo será negado</br>
+<b><h4>ex002</h4></b> &nbsp; Faça um programa que leia um numero inteiro qualquer e peça para o usuario escolher qual sera a base de conversão </br>
+ 1 - binario</br>
+ 2 - octal</br>
+ 3 - hexadecimal</br>
+<b><h4>ex003</h4></b> &nbsp;# Escreva um programa que leia dos numero inteiros e compare-os mostrando a tela da mensagem</br>
+ - O primeiro numero e maior que o segundo </br>
+ - O segundo numero e maior que o primeiro </br>
+ - Os 2 numeros sao do mesmo valor </br>
+
+<b><h4>ex004</h4></b> &nbsp;Faça um programa que leia o ano de nascimento de um jovem e informe de acordo com sua idade, se ele ainda vai se alista no serviço militar,  se e a hora de se alistar ou se ja passou tempo do alistamento. seu programa deve mostra quanto falta para o prazo </br>
+<b><h4>ex005</h4></b> &nbsp;cria um programa que leia duas notas de um aluno e calcule sua media, mostrando uma mensagem no final, de acordo com a media atingida </br>
+ Media abaixo de 5.0 :Reprovado </br>
+ Media acima de 5.0 a 6.9 :Recuperação </br>
+ Media acima de 7.0 :Aprovado</br>
+<b><h4>ex006</h4></b> &nbsp;cria um programa que leia um ano de nascimento de um atleta e mostre sua categoria de acordo com sua idade</br>
+ - Até 9 anos: MIRIM               - Até 19 anos: JUNIOR</br>
+ - Até 14 anos: INFANTIL           - Até 25 anos: SÊNIO </br>
+ - Acima: MASTER</br>
+
+<b><h4>ex007</h4></b> &nbsp; # Faça um programa que mostre que tipo de triangulo e formado </br>
+ Equilatero: Todos os lados iguais</br>
+ Isósceles: Dois iguais </br>
+ Escolatero: Todos os lados diferente</br>
+<b><h4>ex008</h4></b> &nbsp;Faça um programa que tire IMC  </br>
+<b><h4>ex009</h4></b> &nbsp;Faça um programa que calcule o valor a se pagar por um produto, considerando seu preço normal e condição de pagamento:</br>
+- À vista dinheiro/cheque: 10% de desconto              - Em até 2X no cartão preço normal</br>
+- À vista no cartao 5% desconto                         - 3x ou mais no cartão: 20% juros</br>
+<b><h4>ex010</h4></b> &nbsp;Cria um programa que faça um game do jokempô
