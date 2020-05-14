@@ -47,7 +47,7 @@ Calcule o preço  da passagem, combrando R$0,50 por KM para cada viagem ate 200k
 <b><h4>ex006</h4></b> &nbsp;Faça um programa que leia três numeros mostre qual e o maior e qual e o menor.</br>
 <b><h4>ex007</h4></b> &nbsp;Faça um programa que leia um salario de um funcionario e calcule o valor de seu aumento. Para o salario superiores à 1.250, calcule o aumento de 10% para inferiores ou iguais o aumento e de 15%</br>
 </br></br>
-<b><h1> Exercico 02</h1></b><br>
+<b><h1> Exercico 04</h1></b><br>
 <b><h4>ex001</h4></b> &nbsp;Escreva um programa para aprovar um emprestimo bancario a compra de uma casa. Pergunte o valor da casa, o salario do comprador e em quantos anos ele vai pagar. A prestação mensal, nao pode exceder 30% do salario ou entao o emprestimo será negado</br>
 <b><h4>ex002</h4></b> &nbsp; Faça um programa que leia um numero inteiro qualquer e peça para o usuario escolher qual sera a base de conversão </br>
  1 - binario</br>
@@ -76,4 +76,5 @@ Calcule o preço  da passagem, combrando R$0,50 por KM para cada viagem ate 200k
 <b><h4>ex009</h4></b> &nbsp;Faça um programa que calcule o valor a se pagar por um produto, considerando seu preço normal e condição de pagamento:</br>
 - À vista dinheiro/cheque: 10% de desconto              - Em até 2X no cartão preço normal</br>
 - À vista no cartao 5% desconto                         - 3x ou mais no cartão: 20% juros</br>
-<b><h4>ex010</h4></b> &nbsp;Cria um programa que faça um game do jokempô
+
+<b><h4>ex010</h4></b> &nbsp;Cria um programa que faça um game do jokempô </br>
