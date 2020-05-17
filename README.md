@@ -78,3 +78,20 @@ Calcule o preço  da passagem, combrando R$0,50 por KM para cada viagem ate 200k
 - À vista no cartao 5% desconto                         - 3x ou mais no cartão: 20% juros</br>
 
 <b><h4>ex010</h4></b> &nbsp;Cria um programa que faça um game do jokempô </br>
+</br></br>
+<b><h1> Exercico 05</h1></b><br>
+<b><h4>ex001</h4></b> &nbsp;Faça um programa de contagem regreciva </br>
+<b><h4>ex002</h4></b> &nbsp;Crie um programa que mostre todos os numero pares de 1 a 50</br>
+<b><h4>ex003</h4></b> &nbsp;Faça um programa que calcule a soma entre os numeros inpas que são multiplos de 3 e que se encontra no intervalo de 1 ate 500</br>
+<b><h4>ex004</h4></b> &nbsp;Cria um programa que faça tabuada usando laço </br>
+<b><h4>ex005</h4></b> &nbsp;Desenvolva um programa que leia 6 numero inteiros e mostre a soma de todos os numeros pares </br>
+
+<b><h4>ex006</h4></b> &nbsp;Desenvolva um programa que leia o primeiro termo ea razão de uma P.A no final. mostre os 10 primeiro termos dessa progressão</br>
+<b><h4>ex007</h4></b> &nbsp;Faça um programa que leia um numero e informe se ele e primo.</br>
+<b><h4>ex008</h4></b> &nbsp;Crie um programa que leia uma frase qualquer e diga se ela é uma palindromo, desconsiderando os espaços</br>
+<b><h4>ex009</h4></b> &nbsp;cria um programa que leia o ano de nascimento de sete pessoas. No final mostre quantas pessoas ainda nao atingiram a maioridade e quantas ja sãodatetime A combination of a date and a time. Attributes: ()</br>
+<b><h4>ex010</h4></b> &nbsp;Faça um programa que leia o peso de 5 pessoas. No final mostre o maior e menor peso.</br>
+<b><h4>ex011</h4></b> &nbsp;Desenvolva um programa que leia nome, idade e sexo de 4 pessoas. No final do programa mostre:</br>
+ - A media de idade do grupo             - Quantas mulheres tem menos de 18 anos.
+ - Qual nome do homem mais velho. </br>
+
